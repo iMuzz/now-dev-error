@@ -23,6 +23,5 @@ export default (req, res) => {
     .toISOString()
     .replace(/T/, ' ')
     .replace(/\..+/, '');
-
   res.json({ date });
 };
