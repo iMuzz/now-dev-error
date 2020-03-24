@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@types/js-cookie": "^2.2.2",
+    "@types/next": "^8.0.5",
+    "@types/next-redux-wrapper": "^2.0.2",
+    "@types/react": "^16.8.19",
+    "@types/react-redux": "^7.0.9",
+    "@types/styled-jsx": "^2.2.8",
+    "@zeit/next-css": "^1.0.1"
+  }
+}
