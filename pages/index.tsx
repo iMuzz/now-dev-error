@@ -3,7 +3,7 @@ import Link from "next/link";
 import { useQuery } from "@apollo/react-hooks";
 import page from "../lib/pageSetup";
 
-import { IInfluencer } from "../../types";
+import { IInfluencer } from "../types";
 import { GET_INFLUENCERS } from "../graphql/posts";
 
 const Home = () => {
